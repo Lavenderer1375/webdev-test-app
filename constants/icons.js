@@ -3,7 +3,7 @@ import ProfileCircle from "./svg/profile-circle.svg";
 import SearchNormal from "./svg/search-normal.svg";
 
 // hero svg
-import FrameHero from "./svg/frame-hero.svg";
+import FrameHero from "./svg/Frame-Hero.svg";
 
 // Carousel icons
 import Expenses from "./svg/expenses.svg";
